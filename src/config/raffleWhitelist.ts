@@ -37,14 +37,7 @@ const prodWhitelist = new Map<string, RaffleMetaData>([
       overviewImageUri: '/resources/SolFennex.jpg',
     },
   ],
-  [
-    'HaGC63ThMjXKvmmug74aMzq4wJ9DZBjP35DccerHm9Bz',
-    {
-      name: 'Battle For Nippon NFT',
-      overviewImageUri: '/resources/nippon.jpg',
-    },
-  ],
-
+  
 ]);
 
 export const RAFFLES_WHITELIST = TESTING
