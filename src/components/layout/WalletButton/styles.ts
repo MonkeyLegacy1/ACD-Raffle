@@ -5,7 +5,7 @@ export const useStyles = makeStyles<Theme>((theme: Theme) => ({
   walletConnectButton: {
     width: '100%',
     backgroundColor: 'transparent',
-    boxShadow: '0 0 5px 2px #6DD5FF, inset 0 0 10px 0px #6DD5FF',
+    boxShadow: '0 0 5px 2px #54A4C4, inset 0 0 10px 0px #54A4C4',
     color: theme.palette.common.white,
     '&:hover': {
       backgroundColor: alpha(theme.palette.primary.main, 0.2),
