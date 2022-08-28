@@ -3,8 +3,8 @@ import { TESTING } from './misc';
 import { DISPENSER_PROGRAM_ID, DISPENSER_REGISTRY_ADDRESS } from './programIds';
 
 export const ADMIN_ACCOUNTS = TESTING
-  ? ['Cj76fzRdxMf32sDNUPHyLwXEykFeghWbd2DQA6gUSxS7']
-  : ['Cj76fzRdxMf32sDNUPHyLwXEykFeghWbd2DQA6gUSxS7'];
+  ? ['AHbMDzH7Y6dzuWgN2CnyW2PGTKoM2ZQec35PuLovmdMw']
+  : ['AHbMDzH7Y6dzuWgN2CnyW2PGTKoM2ZQec35PuLovmdMw'];
 
 export const [VAULT_TOKEN_IN] = utils.publicKey.findProgramAddressSync(
   [Buffer.from('vault_token_in'), DISPENSER_REGISTRY_ADDRESS.toBytes()],

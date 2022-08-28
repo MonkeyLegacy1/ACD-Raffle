@@ -76,7 +76,17 @@ const tokenRegistry = {
     decimals: 9,
     logoURI: '/resources/acdToken.png',
     tags: []
-  }
+  },
+  '2US6yfgzcFEFbXwREZh2BnXugSD1zdtByJwjFbxSUk1u': {
+    chainId: 101,
+    address: '2US6yfgzcFEFbXwREZh2BnXugSD1zdtByJwjFbxSUk1u',
+    symbol: '$LOCO',
+    name: 'Lost Coin',
+    decimals: 8,
+    logoURI: '/resources/lost-coin.png',
+    tags: []
+}
+  
 };
 
 export const tokenInfoMap = new Map(Object.entries(tokenRegistry));
