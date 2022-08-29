@@ -41,9 +41,9 @@ export const useStyles = makeStyles<Theme, { device: DeviceType }>(
       justifyContent: 'center',
       width: 200,
       height: 30,
-      border: '2px solid red',
+      border: '2px solid blue',
       borderRadius: '2px',
-      boxShadow: '0 0 5px 0 #FF0008',
+      boxShadow: '0 0 5px 0 #54A4C4',
     },
     showEndedRaffles: {
       display: 'flex',
