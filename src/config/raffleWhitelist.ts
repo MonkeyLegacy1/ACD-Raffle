@@ -37,7 +37,13 @@ const prodWhitelist = new Map<string, RaffleMetaData>([
       overviewImageUri: '/resources/acdR.jpg',
     },
   ],
-  
+  [
+    'A1wVWixCR5yU95orRKa5B5AXwbF5Fuici2Sywu9XkL5A',
+    {
+      name: 'SoDead',
+      overviewImageUri: '/resources/acdR2.jpg',
+    },
+  ],
 ]);
 
 export const RAFFLES_WHITELIST = TESTING
