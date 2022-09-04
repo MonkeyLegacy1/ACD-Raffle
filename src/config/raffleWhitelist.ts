@@ -36,19 +36,19 @@ const prodWhitelist = new Map<string, RaffleMetaData>([
       name: 'ACD SoDead Holo',
       overviewImageUri: '/resources/acdR.jpg',
     },
+  ],  
+  [
+    'H3wuSuYDhhRQeJXSZCg1GiQ2JrwmPi5Y7iKq5TSQbXLp',
+    {
+      name: 'Lost Dino Ark',
+      overviewImageUri: '/resources/acdE3.jpg',
+    },
   ],
   [
     'A1wVWixCR5yU95orRKa5B5AXwbF5Fuici2Sywu9XkL5A',
     {
       name: 'SoDead',
       overviewImageUri: '/resources/acdR2.jpg',
-    },
-  ],
-  [
-    'H3wuSuYDhhRQeJXSZCg1GiQ2JrwmPi5Y7iKq5TSQbXLp',
-    {
-      name: 'Lost Dino Ark',
-      overviewImageUri: '/resources/acdE3.jpg',
     },
   ],
 ]);
