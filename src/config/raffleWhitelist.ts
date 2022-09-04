@@ -44,6 +44,13 @@ const prodWhitelist = new Map<string, RaffleMetaData>([
       overviewImageUri: '/resources/acdR2.jpg',
     },
   ],
+  [
+    'H3wuSuYDhhRQeJXSZCg1GiQ2JrwmPi5Y7iKq5TSQbXLp',
+    {
+      name: 'Lost Dino Ark',
+      overviewImageUri: '/resources/acdE3.jpg',
+    },
+  ],
 ]);
 
 export const RAFFLES_WHITELIST = TESTING
