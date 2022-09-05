@@ -36,6 +36,13 @@ const prodWhitelist = new Map<string, RaffleMetaData>([
       name: 'ACD SoDead Holo',
       overviewImageUri: '/resources/acdR.jpg',
     },
+  ],
+  [
+    '5kLeGzu7EP4tJNfQ9TucQPuBUQhvJMNpQSc5AC5AtAc9',
+    {
+      name: 'Mafia Monkey Club',
+      overviewImageUri: '/resources/acdE4.jpg',
+    },
   ],  
   [
     'H3wuSuYDhhRQeJXSZCg1GiQ2JrwmPi5Y7iKq5TSQbXLp',
