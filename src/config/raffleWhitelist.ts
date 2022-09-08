@@ -58,6 +58,13 @@ const prodWhitelist = new Map<string, RaffleMetaData>([
       overviewImageUri: '/resources/acdR2.jpg',
     },
   ],
+  [
+    'HrLWj1JWqCDDbaXQ32HGDGtpFCfeboMDCPfZqNGxanD2',
+    {
+      name: 'Secret Alpha Labs',
+      overviewImageUri: '/resources/acdE5.jpg',
+    },
+  ],
 ]);
 
 export const RAFFLES_WHITELIST = TESTING
