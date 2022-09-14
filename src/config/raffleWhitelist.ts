@@ -65,6 +65,13 @@ const prodWhitelist = new Map<string, RaffleMetaData>([
       overviewImageUri: '/resources/acdE5.jpg',
     },
   ],
+  [
+    'Dgn67CTYKP2ivyeGMYWJZ1eE4rhmDhVS6mpUXArmPzsM',
+    {
+      name: 'Anonymous Crypto Dealer #2176',
+      overviewImageUri: '/resources/acdE7.jpg',
+    },
+  ],
 ]);
 
 export const RAFFLES_WHITELIST = TESTING
